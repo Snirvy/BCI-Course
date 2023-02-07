@@ -5,7 +5,7 @@ Notes
 
 ### Lecture 1
 
-[Wolpaw, 2002](Wolpaw,-2002.md)
+[Wolpaw, 2002](Wolpaw2002.md)
 
 [Introduction](Introduction.md)
 
@@ -15,10 +15,10 @@ Notes
 
 [Quizzes](Quizzed.md)
 
-[Article Presentation](Article-presentation.md)
+[Article Presentation](ArticlePresentation.md)
 
 ### Lecture 2
-[Abiri et al. 2019](Abiri-et-al.-2019.md)
+[Abiri et al. 2019](Abiri2019.md)
 
 [Nicolas-Alonsi & Gomez-Gil, 2012](Nicolas-Alonsi-&-Gomez-Gil,-2012.md)
 
