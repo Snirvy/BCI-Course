@@ -1,7 +1,14 @@
 #bci #lecture1 #bci1
+##The 'father' of BCI
 
-The father of BCI
-Review of state of the art in 2002
+### ChatGPT Summary
+The 2002 paper by Jonathan Wolpaw, entitled "Brain-computer interfaces for communication and control," is a seminal work in the field of brain-computer interfaces (BCI). It provides an overview of the history of BCI research, the technical challenges involved in building BCIs, and the state of the art in BCI technology at the time of publication.
+
+In the paper, Wolpaw discusses the various ways in which brain signals can be used to control computers, including the use of electroencephalography (EEG), magnetoencephalography (MEG), and functional magnetic resonance imaging (fMRI). He also reviews the different approaches used in BCI research, including signal processing techniques, feature extraction algorithms, and machine learning methods.
+
+Wolpaw concludes the paper by outlining the future directions for BCI research and development, including the need for improved signal processing methods, better algorithms for detecting and decoding brain signals, and the development of more natural and intuitive BCI systems. The paper is considered to be a seminal work in the field of BCI and is widely cited in subsequent research in this area.
+
+
 
 ### Discussion Questions
 
