@@ -20,5 +20,5 @@ Notes
 ### Lecture 2
 [Abiri et al. 2019](Abiri2019.md)
 
-[Nicolas-Alonsi & Gomez-Gil, 2012](Nicolas-Alonsi-&-Gomez-Gil,-2012.md)
+[Nicolas-Alonsi & Gomez-Gil, 2012](Nicolas2012.md)
 
