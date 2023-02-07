@@ -10,19 +10,19 @@ Electrical engineering + robots
 
 [Embodiment](Embodiment.md)
 
-[Brain computer interfaces](Brain Computer Interfaces.md)
+[Brain computer interfaces](BCI.md)
 
-[gamified learning](gamified learning.md)
+[gamified learning](GamifiedLearning.md)
 
-[digital humans](digital humans.md)
+[digital humans](DigitalHumans.md)
 
 [VR](VR.md)
 
 [neuromarketing](neuromarketing.md)
 
-[mental health](mental health.md)
+[mental health](MentalHealth.md)
 
-[active BCI training](active BCI training.md)
+[active BCI training](ActiveBCITraining.md)
 
 
 ### Housekeeping
@@ -35,9 +35,9 @@ Electrical engineering + robots
 
 ~132 hours
 
-[Article presentation](Article presentation.md)
+[Article presentation](ArticlePresentation.md)
 
-[Project presentation](Project presentation.md)
+[Project presentation](ProjectPresentation.md)
 
 We will have guest lectures!
 
