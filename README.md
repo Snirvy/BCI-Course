@@ -17,3 +17,8 @@ Notes
 
 [Article Presentation](Article-presentation.md)
 
+### Lecture 2
+[Abiri et al. 2019](Abiri-et-al.-2019.md)
+
+[Nicolas-Alonsi & Gomez-Gil, 2012](Nicolas-Alonsi-&-Gomez-Gil,-2012.md)
+
