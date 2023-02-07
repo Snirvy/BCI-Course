@@ -13,7 +13,7 @@ Notes
 
 [Project](Project.md)
 
-[Quizzes](Quizzed.md)
+[Quizz 1](Quiz1.md)
 
 [Article Presentation](ArticlePresentation.md)
 
