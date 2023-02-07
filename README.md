@@ -22,3 +22,4 @@ Notes
 
 [Nicolas-Alonsi & Gomez-Gil, 2012](Nicolas2012.md)
 
+[Thorsten Zander Online Lecture, 2019](ZanderLecture.md)
